@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![Top Langs](https://github-readme-stats-j5683nwq2-mimea005.vercel.app/api/top-langs/?username=Mimea005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats-j5683nwq2-mimea005.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-j5683nwq2-mimea005.vercel.app/api?username=Mimea005)](https://github.com/anuraghazra/github-readme-stats)
