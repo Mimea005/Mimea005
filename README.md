@@ -2,10 +2,11 @@
 
 Interests: Programming, video editing and vfx.  
 My first language was python but most of my experience is with Javascript/Typescript. And I also like to dive into  other languages like Java, C#, C, C++, Rust, zig, etc. etc.
+<div class="gh-stats">
+  <img src="https://raw.githubusercontent.com/Mimea005/jstriebs-github-stats/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Mimea005/jstriebs-github-stats/master/generated/languages.svg" />  
+</div>
 
-![](https://raw.githubusercontent.com/Mimea005/jstriebs-github-stats/master/generated/overview.svg)
-
-![](https://raw.githubusercontent.com/Mimea005/jstriebs-github-stats/master/generated/languages.svg)
 <!--
 **Mimea005/Mimea005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
